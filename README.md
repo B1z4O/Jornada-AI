@@ -19,3 +19,5 @@ Aula 6: Explicação de como utilizamos o GitHub:
       - (No caso de um erro feito em uma nova atualização que inutilize nosso código, ou no caso de uma atualização temporária nos permite voltar para uma atualização anterior sem a alteração)
     Branch; ramificações criadas conforme as alterações no nosso código original.
     GitLog; nos permite visualizar as alterações feitas em uma branch ou em algum arquivo em especial.
+
+Aula 7: Ultima aula antes do encerramento em live, colocamos o código para funcionar em jogo!
